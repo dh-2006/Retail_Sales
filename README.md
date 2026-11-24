@@ -39,7 +39,7 @@ Click below to open the Python source file:
 
 Click below to view the retail sales dataset:
 
-[![View CSV Dataset](https://img.shields.io/badge/📊_View_CSV_Dataset-blue?style=for-the-badge)](retail_sales.csv)
+[![View CSV Dataset](https://img.shields.io/badge/📊_View_CSV_Dataset-blue?style=for-the-badge)](https://github.com/dh-2006/Retail_Sales/blob/main/retail_sales.csv)
 
 ---
 
