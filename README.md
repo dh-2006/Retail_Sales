@@ -83,7 +83,7 @@ Click below to view the retail sales dataset:
 
 ## 🗂️ Dataset Information
 
-The `retail_sales.csv` file contains 15 sample records and the following six columns:
+The `retail_sales.csv` file contains 11 sample records and the following six columns:
 
 | Column | Description |
 |---|---|
