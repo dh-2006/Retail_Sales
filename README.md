@@ -25,11 +25,21 @@ An interactive **Command Line Interface (CLI)** application built using **Python
 
 ---
 
+---
+
 ## 💻 Source Code
 
 Click below to open the Python source file:
 
-[![View Source Code](https://img.shields.io/badge/💻_View_Source_Code-green?style=for-the-badge)](https://github.com/dh-2006/Retail_Sales/blob/main/retail_analyzer.py)
+[![View Source Code](https://img.shields.io/badge/💻_View_Source_Code-green?style=for-the-badge)](retail_analyzer.py)
+
+---
+
+## 📂 Dataset (CSV File)
+
+Click below to view the retail sales dataset:
+
+[![View CSV Dataset](https://img.shields.io/badge/📊_View_CSV_Dataset-blue?style=for-the-badge)](retail_sales.csv)
 
 ---
 
